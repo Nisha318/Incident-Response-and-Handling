@@ -7,7 +7,7 @@ Objectives:
   <li>  Utilize effective Splunk searches to investigate logs    </li>
   <li>  Understand host-centric and network-centric log sources    </li>
 
-
+</ul>
 
 Incident Handling Scenario
 
