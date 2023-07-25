@@ -9,7 +9,7 @@
 
 <img src="https://github.com/Nisha318/Nisha318.github.io/blob/main/images/incident%20response%20lifecycle.png" width="400" height="300">
 
-The Cyber Kill Chain: The Seven Steps of a Cyberattack
+<h3>The Cyber Kill Chain: The Seven Steps of a Cyberattack </h3>
 <ol>
    <li> Reconnaissance </li>
    <li> Weaponization</li>
