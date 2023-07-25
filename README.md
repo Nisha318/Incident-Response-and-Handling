@@ -7,4 +7,4 @@
    <li> Post-Incident Activity/Lessons Learnt   </li>
 </ol>
 
-<img src="https://github.com/Nisha318/Nisha318.github.io/blob/main/images/incident%20response%20lifecycle.png" width="500" height="600">
+<img src="https://github.com/Nisha318/Nisha318.github.io/blob/main/images/incident%20response%20lifecycle.png" width="300" height="300">
