@@ -15,16 +15,16 @@ We will investigate a cyber attack in which the attacker defaced an organization
 <ul>
 <li>Reconnaissance Phase</li>
 
-<liExploitation Phase</li>
+<li>Exploitation Phase</li>
 
-<liInstallation Phase</li>
+<li>Installation Phase</li>
 
-<liAction on Objective</li>
+<li>Action on Objective</li>
 
-<liCommand and Control Phase</li>
+<li>Command and Control Phase</li>
 
-<liWeaponization Phase</li>
+<li>Weaponization Phase</li>
 
-<liDelivery Phase</li>
+<li>Delivery Phase</li>
 
 </ul>
