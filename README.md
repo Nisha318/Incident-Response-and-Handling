@@ -7,7 +7,7 @@
    <li> Post-Incident Activity/Lessons Learnt   </li>
 </ol>
 
-<img src="https://github.com/Nisha318/Nisha318.github.io/blob/main/images/incident%20response%20lifecycle.png" width="400" height="300">
+<img src="https://github.com/Nisha318/Nisha318.github.io/blob/master/assets/images/incident%20response%20lifecycle.png" width="400" height="300">
 
 <h3>The Cyber Kill Chain: The Seven Steps of a Cyberattack </h3>
 <ol>
